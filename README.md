@@ -9,6 +9,8 @@ To use the custom camera views the configuration file ```CAMERAS.CFG``` needs to
 **Microsoft Store Path:** 
 ```%LOCALAPPDATA%\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\SimObjects\Airplanes\<AIRCRAFT>```
 
+When using the custom views please make sure you're in cockpit mode, as they don't work in External or Showcase mode.
+
 ### Keybindings
 If you're flying using your keyboard I recommend using the default keybindings provided in the game, as seen on the image below.
 ![Default Controls](https://i.imgur.com/T1NcT4p.png)
